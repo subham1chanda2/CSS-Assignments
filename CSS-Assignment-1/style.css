@@ -1,0 +1,22 @@
+h1,h3,a{
+    color:red;
+}
+b,a{
+    background: #f0f028;
+}
+li,p{
+    color: brown;
+}
+a{
+    text-decoration: none;
+}
+.underline{
+    text-decoration: underline;
+}
+.not{
+    background: white;
+    text-decoration: line-through;
+}
+ul{
+    letter-spacing: 4px;
+}
